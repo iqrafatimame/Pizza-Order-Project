@@ -1,0 +1,15 @@
+D:\PizzaOrderProject\PizzaOrderProject\bin\Debug\Database1.mdf
+D:\PizzaOrderProject\PizzaOrderProject\bin\Debug\Database1_log.ldf
+D:\PizzaOrderProject\PizzaOrderProject\bin\Debug\PizzaOrderProject.exe.config
+D:\PizzaOrderProject\PizzaOrderProject\bin\Debug\PizzaOrderProject.exe
+D:\PizzaOrderProject\PizzaOrderProject\bin\Debug\PizzaOrderProject.pdb
+D:\PizzaOrderProject\PizzaOrderProject\obj\Debug\PizzaOrderProject.CustomerDetails.resources
+D:\PizzaOrderProject\PizzaOrderProject\obj\Debug\PizzaOrderProject.Home.resources
+D:\PizzaOrderProject\PizzaOrderProject\obj\Debug\PizzaOrderProject.OrderDetails.resources
+D:\PizzaOrderProject\PizzaOrderProject\obj\Debug\PizzaOrderProject.Properties.Resources.resources
+D:\PizzaOrderProject\PizzaOrderProject\obj\Debug\PizzaOrderProject.viewOrder.resources
+D:\PizzaOrderProject\PizzaOrderProject\obj\Debug\PizzaOrderProject.csproj.GenerateResource.cache
+D:\PizzaOrderProject\PizzaOrderProject\obj\Debug\PizzaOrderProject.csproj.CoreCompileInputs.cache
+D:\PizzaOrderProject\PizzaOrderProject\obj\Debug\PizzaOrderProject.exe
+D:\PizzaOrderProject\PizzaOrderProject\obj\Debug\PizzaOrderProject.pdb
+D:\PizzaOrderProject\PizzaOrderProject\obj\Debug\PizzaOrderProject.csprojAssemblyReference.cache
